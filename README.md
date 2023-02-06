@@ -4,10 +4,9 @@ Mengukur performa bisnis merupakan suatu hal yang sangat penting bagi sebuah per
 
 ##  **Objektif**
 Mengumpulkan insight dari analisis dan dengan visualisasi berupa :
-1. [**Annual Customer Activity Growth**](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#1-annual-customer-activity-growth)
-2. [**Annual Product Category Quality**](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#2-annual-product-category-quality
-)
-3. [**Annual Payment Type Usage**](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#3-annual-payment-type-usage)
+1. **Annual Customer Activity Growth**
+2. **Annual Product Category Quality**
+3. **Annual Payment Type Usage**
 
 ##  **Preparasi Data**
 Dataset yang digunakan adalah dataset sebuah perusahaan eCommerce Brasil yang memiliki informasi pesanan dengan jumlah 99441 dari tahun 2016 hingga 2018. Terdapat fitur-titur yang membuat informasi seperti status pemesanan, lokasi, rincian item, jenis pembayaran, serta ulasan.
