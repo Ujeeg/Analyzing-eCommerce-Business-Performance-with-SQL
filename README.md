@@ -29,6 +29,7 @@ Dataset yang digunakan adalah dataset sebuah perusahaan eCommerce Brasil yang me
 
 
 # ERD
+![Picture1](https://user-images.githubusercontent.com/118154539/216954658-9949b9b6-3dba-49e0-a9f1-f5b503b85637.png)
 
 # Annual Customer Activity Growth Analysis
 ![acg 1](https://user-images.githubusercontent.com/118154539/215446005-d446920e-fd7b-4a42-8e9a-9e5296488ce1.png)
