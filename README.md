@@ -29,7 +29,7 @@ Dataset yang digunakan adalah dataset sebuah perusahaan eCommerce Brasil yang me
 4. Membuat dan mengeksport ERD (Entity Relationship Diagram) <br>
 
 
-# Data Preparation 
+# ERD
 
 # Annual Customer Activity Growth Analysis
 ![acg 1](https://user-images.githubusercontent.com/118154539/215446005-d446920e-fd7b-4a42-8e9a-9e5296488ce1.png)
