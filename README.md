@@ -1,15 +1,15 @@
 # Analyzing-eCommerce-Business-Performance-with-SQL
-## ✏️ **Rumusan Masalah**
+##  **Rumusan Masalah**
 Mengukur performa bisnis merupakan suatu hal yang sangat penting bagi sebuah perusahaan. Ini akan membantu dalam memantau, dan menilai keberhasilan atau kegagalan dari berbagai proses bisnis. Pengukuran performa bisnis dapat dilakukan dengan memperhitungkan beberapa metrik bisnis. Dalam poyek ini akan dilakukan analisis performa bisnis suatu perusahaan eCommerce dengan dengan metrik bisnis yaitu pertumbuhan pelanggan, kualitas produk, dan tipe pembayaran berdasarkan historical data selama tiga tahun.
 
-## ✏️ **Objektif**
+##  **Objektif**
 Mengumpulkan insight dari analisis dan dengan visualisasi berupa :
 1. [**Annual Customer Activity Growth**](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#1-annual-customer-activity-growth)
 2. [**Annual Product Category Quality**](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#2-annual-product-category-quality
 )
 3. [**Annual Payment Type Usage**](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#3-annual-payment-type-usage)
 
-## ✏️ **Preparasi Data**
+##  **Preparasi Data**
 Dataset yang digunakan adalah dataset sebuah perusahaan eCommerce Brasil yang memiliki informasi pesanan dengan jumlah 99441 dari tahun 2016 hingga 2018. Terdapat fitur-titur yang membuat informasi seperti status pemesanan, lokasi, rincian item, jenis pembayaran, serta ulasan.
 
 **Tabel yang digunakan:**
